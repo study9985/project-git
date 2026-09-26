@@ -1,5 +1,5 @@
 git is awesome!
-new line
+new line.
 first line
 experiment with amend
 second line
